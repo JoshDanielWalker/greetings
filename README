@@ -10,3 +10,14 @@ https://golang.org/doc/tutorial/call-module-code
 Return and handle an error
 https://golang.org/doc/tutorial/handle-errors
 
+Return a random greeting
+https://golang.org/doc/tutorial/random-greeting
+
+Return greetings for multiple people
+https://golang.org/doc/tutorial/greetings-multiple-people
+
+Add a test
+https://golang.org/doc/tutorial/add-a-test
+
+Compile and install the application
+https://golang.org/doc/tutorial/compile-install
